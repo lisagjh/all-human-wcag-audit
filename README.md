@@ -1,16 +1,14 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
-
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+Opdracht: doe een WCAG test op een bestaande website en rapporteer daarover.
 
-## Titel Website
+## FC Aalsmeer
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Voor deze opdracht heb ik de website van mijn oude voetbalclub FC Aalsmeer getest. Deze kan je hier vinden: https://www.fcaalsmeer.nl/ .
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+![Screenshot 2023-10-18 at 10-58-52 FC Aalsmeer](https://github.com/lisagjh/all-human-wcag-audit/assets/131701505/27a1408d-9507-4c82-a23c-4044dee078c3)
 
-Schrijf een samenvatting van de testbevindingen.
+In mijn wiki kun je meer lezen over de lighthouse test en de handmatige test.
 
 ## Licentie
 
